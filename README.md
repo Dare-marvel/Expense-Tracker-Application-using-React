@@ -71,14 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## `Reference/Notes`
 
-0)Official Docs
+0)Official Docs :
 https://legacy.reactjs.org/docs/implementation-notes.html
 
 1)Geeks for Geeks : 
-Go on scrolling for the next article from here to get a overview of the basic concepts
+Start viewing articles from here to get a overview of the basic concepts:
 https://www.geeksforgeeks.org/reactjs-introduction-jsx/
 
-2)Free Code Camp
+2)Free Code Camp :
 https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
 
