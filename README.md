@@ -73,13 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Complete References`
 
-0)Official Docs :<br>
+0) Official Docs :<br>
 https://legacy.reactjs.org/docs/implementation-notes.html
 
-1)Geeks for Geeks : <br>
+1) Geeks for Geeks : <br>
 https://www.geeksforgeeks.org/reactjs-tutorials/
 
-2)Free Code Camp :<br>
+2) Free Code Camp :<br>
 https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
 ### `Topic Wise References`
