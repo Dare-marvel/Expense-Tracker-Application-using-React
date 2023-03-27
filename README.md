@@ -85,13 +85,13 @@ https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 ### `Topic Wise References`
 
 0)Listening to Events & Working with Event Handlers:<br>
-https://blog.logrocket.com/react-onclick-event-handlers-guide/
+[Event Handlers](https://blog.logrocket.com/react-onclick-event-handlers-guide/)
 
 1)Component functions in React:<br>
-https://www.w3schools.com/react/react_components.asp
+[Component Functions](https://www.w3schools.com/react/react_components.asp)
 
 2)Introduction to `State` in React<br>
-https://www.javatpoint.com/react-state<br>
+  [Overview of State](https://www.javatpoint.com/react-state)
   ####    2.1) `useState` brief introduction
   [Brief Introduction](https://www.w3schools.com/react/react_usestate.asp)
   ####    2.2) Using a `Single useState`<br>
@@ -99,12 +99,12 @@ https://www.javatpoint.com/react-state<br>
  ####     2.3) Using `Multiple useState`<br>
   [Multiple useState](https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states)
  ####     Tips for Handling State Structure in React<br>
-          https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e
+  [Tips and Tricks](https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e)
  ####     2.4) Update State that depends on previous state<br>
-          https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks<br>
+  [Explanation with examples](https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks)
  ####     2.5) Adding Two-Way Binding<br>
-          https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538
-          https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821
+  [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)
+  [Detail](https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821)
  ####     2.6) Child to Parent Component Communication<br>
-          https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43
-          https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent
+  [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)
+  [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
