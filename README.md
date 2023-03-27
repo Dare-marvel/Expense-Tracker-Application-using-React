@@ -90,4 +90,7 @@ https://blog.logrocket.com/react-onclick-event-handlers-guide/
 1)Component functions in React:<br>
 https://www.w3schools.com/react/react_components.asp
 
-
+2)Introduction to `State` in React<br>
+https://www.javatpoint.com/react-state
+    2.1) `useState` in React<br>
+          https://www.w3schools.com/react/react_usestate.asp
