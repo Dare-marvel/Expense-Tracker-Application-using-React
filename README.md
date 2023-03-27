@@ -93,11 +93,15 @@ https://www.w3schools.com/react/react_components.asp
 2)Introduction to `State` in React<br>
 https://www.javatpoint.com/react-state<br>
   ####    2.1) `useState`<br>
-         https://www.w3schools.com/react/react_usestate.asp
+          https://www.w3schools.com/react/react_usestate.asp
   ####    2.2) Using a `Single useState`<br>
-         https://bobbyhadz.com/blog/react-update-object-in-array<br>
+          https://bobbyhadz.com/blog/react-update-object-in-array<br>
  ####     2.3) Using `Multiple useState`<br>
-         https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states<br>
+          https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states<br>
  ####     Tips for Handling State Structure in React<br>
-         https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e<br>
+          https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e<br>
  ####     2.4) Update State that depends on previous state
+          https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks
+ ####     2.4) Adding Two-Way Binding
+          
+          
