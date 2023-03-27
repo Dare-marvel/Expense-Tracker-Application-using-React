@@ -100,8 +100,10 @@ https://www.javatpoint.com/react-state<br>
           https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states<br>
  ####     Tips for Handling State Structure in React<br>
           https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e<br>
- ####     2.4) Update State that depends on previous state
-          https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks
- ####     2.4) Adding Two-Way Binding
-          
+ ####     2.4) Update State that depends on previous state<br>
+          https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks<br>
+ ####     2.5) Adding Two-Way Binding<br>
+          https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538<br>
+          https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821
+ ####     2.6) Child to Parent Component Communication<br>
           
