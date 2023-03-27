@@ -108,3 +108,7 @@ https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
  ####     2.6) Child to Parent Component Communication<br>
   [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
   [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
+ ####     2.7) Lifting the state up<br> 
+ [Concise](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)<br>
+ [Semi-Concise](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)<br>
+ [Detail](https://www.codingninjas.com/codestudio/library/lifting-the-state-up-in-reactjs)
