@@ -84,13 +84,13 @@ https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
 ### `Topic Wise References`
 
-### 0)Listening to Events & Working with Event Handlers:<br>
+### 0) Listening to Events & Working with Event Handlers:<br>
 [Event Handlers](https://blog.logrocket.com/react-onclick-event-handlers-guide/)
 
-### 1)Component functions in React:<br>
+### 1) Component functions in React:<br>
 [Component Functions](https://www.w3schools.com/react/react_components.asp)
 
-### 2)Introduction to `State` in React<br>
+### 2) Introduction to `State` in React<br>
   [Overview of State](https://www.javatpoint.com/react-state)
   ####    2.1) `useState` brief introduction
   [Brief Introduction](https://www.w3schools.com/react/react_usestate.asp)
