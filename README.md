@@ -71,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## `Reference/Notes`
 
+### `Complete References`
+
 0)Official Docs :<br>
 https://legacy.reactjs.org/docs/implementation-notes.html
 
@@ -80,5 +82,12 @@ https://www.geeksforgeeks.org/reactjs-tutorials/
 2)Free Code Camp :<br>
 https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
+### `Topic Wise References`
+
+0)Listening to Events & Working with Event Handlers:<br>
+https://blog.logrocket.com/react-onclick-event-handlers-guide/
+
+1)Component functions in React:<br>
+https://www.w3schools.com/react/react_components.asp
 
 
