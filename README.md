@@ -84,13 +84,13 @@ https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
 ### `Topic Wise References`
 
-0)Listening to Events & Working with Event Handlers:<br>
+### 0)Listening to Events & Working with Event Handlers:<br>
 [Event Handlers](https://blog.logrocket.com/react-onclick-event-handlers-guide/)
 
-1)Component functions in React:<br>
+### 1)Component functions in React:<br>
 [Component Functions](https://www.w3schools.com/react/react_components.asp)
 
-2)Introduction to `State` in React<br>
+### 2)Introduction to `State` in React<br>
   [Overview of State](https://www.javatpoint.com/react-state)
   ####    2.1) `useState` brief introduction
   [Brief Introduction](https://www.w3schools.com/react/react_usestate.asp)
@@ -103,8 +103,8 @@ https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
  ####     2.4) Update State that depends on previous state<br>
   [Explanation with examples](https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks)
  ####     2.5) Adding Two-Way Binding<br>
-  [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)
+  [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)<br>
   [Detail](https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821)
  ####     2.6) Child to Parent Component Communication<br>
-  [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)
+  [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
   [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
