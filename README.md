@@ -110,3 +110,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  [Concise](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)<br>
  [Semi-Concise](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)<br>
  [Detail](https://www.codingninjas.com/codestudio/library/lifting-the-state-up-in-reactjs)
+ ####     2.8) Controlled Vs Uncontrolled Components<br>
+ [Basic Idea](https://www.javatpoint.com/react-controlled-vs-uncontrolled-component)<br>
+ [Semi-Concise](https://blog.logrocket.com/controlled-vs-uncontrolled-components-in-react/)<br>
+ [Detail](https://medium.com/fasal-engineering/controlled-and-uncontrolled-components-in-react-js-c3111ee0a864)
+ 
