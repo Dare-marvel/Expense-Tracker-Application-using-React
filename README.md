@@ -71,15 +71,47 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## `Reference/Notes`
 
-0)Official Docs :<br>
-https://legacy.reactjs.org/docs/implementation-notes.html
+### `Complete References`
 
-1)Geeks for Geeks : 
-Start viewing articles from here to get a overview of the basic concepts:<br>
-https://www.geeksforgeeks.org/reactjs-introduction-jsx/
+### 0) [Official Docs](https://legacy.reactjs.org/docs/implementation-notes.html)<br>
 
-2)Free Code Camp :<br>
-https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
+### 1) [Geeks for Geeks](https://www.geeksforgeeks.org/reactjs-tutorials/)<br>
+
+### 2) [Free Code Camp](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)<br>
 
 
+### `Topic Wise References`
 
+### 0) Listening to Events & Working with Event Handlers:<br>
+[Event Handlers](https://blog.logrocket.com/react-onclick-event-handlers-guide/)
+
+### 1) Component functions in React:<br>
+[Component Functions](https://www.w3schools.com/react/react_components.asp)
+
+### 2) Introduction to `State` in React<br>
+  [Overview of State](https://www.javatpoint.com/react-state)
+  ####    2.1) `useState` brief introduction
+  [Brief Introduction](https://www.w3schools.com/react/react_usestate.asp)
+  ####    2.2) Using a `Single useState`<br>
+  [Single useState](https://bobbyhadz.com/blog/react-update-object-in-array)
+ ####     2.3) Using `Multiple useState`<br>
+  [Multiple useState](https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states)
+ ####     Tips for Handling State Structure in React<br>
+  [Tips and Tricks](https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e)
+ ####     2.4) Update State that depends on previous state<br>
+  [Explanation with examples](https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks)
+ ####     2.5) Adding Two-Way Binding<br>
+  [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)<br>
+  [Detail](https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821)
+ ####     2.6) Child to Parent Component Communication<br>
+  [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
+  [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
+ ####     2.7) Lifting the state up<br> 
+ [Concise](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)<br>
+ [Semi-Concise](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)<br>
+ [Detail](https://www.codingninjas.com/codestudio/library/lifting-the-state-up-in-reactjs)
+ ####     2.8) Controlled Vs Uncontrolled Components<br>
+ [Basic Idea](https://www.javatpoint.com/react-controlled-vs-uncontrolled-component)<br>
+ [Semi-Concise](https://blog.logrocket.com/controlled-vs-uncontrolled-components-in-react/)<br>
+ [Detail](https://medium.com/fasal-engineering/controlled-and-uncontrolled-components-in-react-js-c3111ee0a864)
+ 
