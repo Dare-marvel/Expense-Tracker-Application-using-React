@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * Navigate to the directory where the project is located and run `npm install`
 * After the required packages are installed , run `npm start` and you can view the project on localhost
 
-## `Reference/Notes`
+## `Reference/Notes about the React topics used in the project`
 
 ### `Complete References`
 
