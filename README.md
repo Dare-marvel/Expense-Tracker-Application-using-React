@@ -119,4 +119,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  [Basic Idea](https://www.javatpoint.com/react-controlled-vs-uncontrolled-component)<br>
  [Semi-Concise](https://blog.logrocket.com/controlled-vs-uncontrolled-components-in-react/)<br>
  [Detail](https://medium.com/fasal-engineering/controlled-and-uncontrolled-components-in-react-js-c3111ee0a864)
- 
+  ####     2.9) Derived State<br>
+ [Appropriate](https://medium.com/comsystoreply/totally-in-sync-using-derived-state-in-react-applications-98cbd5acaa91)<br>
+  ####     3.0) Rendering lists of data<br>
+ [Basic Idea](https://react.dev/learn/rendering-lists)<br>
+ [Appropriate](https://www.freecodecamp.org/news/how-to-render-lists-in-react/)<br>
+  ####     3.0) Using Stateful Lists<br>
+  [Basic Idea](https://react.dev/learn/rendering-lists)<br> 
