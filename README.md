@@ -106,7 +106,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  ####     2.4) Update State that depends on previous state<br>
   [Explanation with examples](https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks)
  ####     2.5) Adding Two-Way Binding<br>
-  [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)<br>
+  [Concise](https://reactgo.com/two-way-data-binding-react/)<br>
   [Detail](https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821)
  ####     2.6) Child to Parent Component Communication<br>
   [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
