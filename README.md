@@ -125,4 +125,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  [Basic Idea](https://react.dev/learn/rendering-lists)<br>
  [Appropriate](https://www.freecodecamp.org/news/how-to-render-lists-in-react/)<br>
   ####     3.0) Using Stateful Lists<br>
-  [Basic Idea](https://react.dev/learn/rendering-lists)<br> 
+  [Basic Idea](https://medium.com/@ozlemerden.bm/react-statefull-and-stateless-c186f2689793)<br> 
+  [Appropriate](https://www.geeksforgeeks.org/what-is-stateful-class-based-component-in-reactjs/)<br>
+  ####     3.1) Conditional Content<br>
+  [Basic Idea](https://www.w3schools.com/react/react_conditional_rendering.asp)<br>
+  [Appropriate](https://www.freecodecamp.org/news/react-conditional-rendering/)<br> 
+ ####     3.2) Conditional return statement<br>  
+[Appropriate](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications)<br>  
+ ####     3.3) Dynamic Styling in ReactJS<br>  
+[Appropriate](https://medium.com/geekculture/dynamic-styling-with-reactjs-7f7258d29cd0)<br>  
+ ####     3.4) Dynamic Styling in ReactJS using CSS Modules<br>  
+[Appropriate](https://www.makeuseof.com/react-components-css-modules-style/)<br>  
