@@ -112,7 +112,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
   [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
  ####     2.7) Lifting the state up<br> 
- [Concise](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)<br>
+ [Concise](https://medium.com/@kristinethejohnson/lifting-state-up-prop-drilling-in-react-3ef3367fca7a)<br>
  [Semi-Concise](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)<br>
  [Detail](https://www.codingninjas.com/codestudio/library/lifting-the-state-up-in-reactjs)
  ####     2.8) Controlled Vs Uncontrolled Components<br>
