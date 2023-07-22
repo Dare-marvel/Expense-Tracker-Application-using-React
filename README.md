@@ -72,16 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<<<<<<< HEAD
 ## `Reference/Notes`
-=======
 ## Project Setup
 * Download the zip file and extract it in a folder of your choice
 * Navigate to the directory where the project is located and run `npm install`
 * After the required packages are installed , run `npm start` and you can view the project on localhost
 
 ## `Reference/Notes about the React topics used in the project`
->>>>>>> origin/master
 
 ### `Complete References`
 
@@ -102,41 +99,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### 2) Introduction to `State` in React<br>
   [Overview of State](https://www.javatpoint.com/react-state)
+  
   ####    2.1) `useState` brief introduction
   [Brief Introduction](https://www.w3schools.com/react/react_usestate.asp)
+  
   ####    2.2) Using a `Single useState`<br>
   [Single useState](https://bobbyhadz.com/blog/react-update-object-in-array)
+  
  ####     2.3) Using `Multiple useState`<br>
   [Multiple useState](https://dmitripavlutin.com/react-usestate-hook-guide/#2-multiple-states)
+  
  ####     Tips for Handling State Structure in React<br>
   [Tips and Tricks](https://blog.bitsrc.io/5-best-practices-for-handling-state-structure-in-react-f011e842076e)
+  
  ####     2.4) Update State that depends on previous state<br>
   [Explanation with examples](https://www.cluemediator.com/usestate-with-the-previous-state-in-react-hooks)
+  
  ####     2.5) Adding Two-Way Binding<br>
-<<<<<<< HEAD
   [Concise](https://medium.com/front-end-weekly/two-way-binding-will-make-your-react-code-better-f58865923538)<br>
-=======
   [Concise](https://reactgo.com/two-way-data-binding-react/)<br>
->>>>>>> origin/master
   [Detail](https://enlear.academy/two-way-data-binding-in-react-with-mlyn-1693ca0e2821)
+  
  ####     2.6) Child to Parent Component Communication<br>
   [Concise](https://blog.devgenius.io/how-to-pass-data-from-child-to-parent-in-react-33ed99a90f43)<br>
   [Detail](https://bobbyhadz.com/blog/react-pass-data-from-child-to-parent)
+  
  ####     2.7) Lifting the state up<br> 
-<<<<<<< HEAD
  [Concise](https://www.geeksforgeeks.org/lifting-state-up-in-reactjs/)<br>
-=======
  [Concise](https://medium.com/@kristinethejohnson/lifting-state-up-prop-drilling-in-react-3ef3367fca7a)<br>
->>>>>>> origin/master
  [Semi-Concise](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)<br>
  [Detail](https://www.codingninjas.com/codestudio/library/lifting-the-state-up-in-reactjs)
+ 
  ####     2.8) Controlled Vs Uncontrolled Components<br>
  [Basic Idea](https://www.javatpoint.com/react-controlled-vs-uncontrolled-component)<br>
  [Semi-Concise](https://blog.logrocket.com/controlled-vs-uncontrolled-components-in-react/)<br>
  [Detail](https://medium.com/fasal-engineering/controlled-and-uncontrolled-components-in-react-js-c3111ee0a864)
-<<<<<<< HEAD
- 
-=======
+
   ####     2.9) Derived State<br>
  [Appropriate](https://medium.com/comsystoreply/totally-in-sync-using-derived-state-in-react-applications-98cbd5acaa91)<br>
   ####     3.0) Rendering lists of data<br>
@@ -154,4 +152,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [Appropriate](https://medium.com/geekculture/dynamic-styling-with-reactjs-7f7258d29cd0)<br>  
  ####     3.4) Dynamic Styling in ReactJS using CSS Modules<br>  
 [Appropriate](https://www.makeuseof.com/react-components-css-modules-style/)<br>  
->>>>>>> origin/master
